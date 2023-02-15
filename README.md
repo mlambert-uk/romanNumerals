@@ -1,6 +1,6 @@
-# Roman Numerals Code Kata Solution
+# Roman Numerals Code Kata
 
-This repository contains my solution to the following code Kata exercise:
+This repository contains the following code Kata exercise:
 
 # Task 1
 
